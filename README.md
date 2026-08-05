@@ -9,7 +9,7 @@ Describe a form in plain language and get a fully working, validating form back 
 - Tailwind CSS 3 (PostCSS-based, `tailwind.config.js` + `postcss.config.js`)
 - React Router 6
 - React Icons
-- Gemini API (`gemini-2.0-flash`, called directly via `fetch`)
+- Gemini API (`gemini-flash-latest`, called directly via `fetch`)
 - Local Storage (no backend of any kind)
 
 ## Getting started
